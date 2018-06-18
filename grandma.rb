@@ -1,5 +1,5 @@
   # Write a
-  def speak_to_grandma method(phrase)
+  def speak_to_grandma(phrase)
     uc = "#{phrase}".upcase
     if "#{phrase}" != uc
       puts "HUH?! SPEAK UP, SONNY!"
