@@ -1,6 +1,6 @@
   # Write a
   def speak_to_grandma(phrase)
-    uc = "#{phrase}".upcase
+    
     if "#{phrase}" == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
     end
