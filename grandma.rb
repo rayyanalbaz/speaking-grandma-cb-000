@@ -1,7 +1,7 @@
   # Write a
   def speak_to_grandma(phrase)
     uc = "#{phrase}".upcase
-    if "#{phrase}" != uc
+    if "#{phrase}" == "I LOVE YOU GRANDMA!"
       puts "HUH?! SPEAK UP, SONNY!"
     end
 
