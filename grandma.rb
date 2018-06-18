@@ -1,4 +1,9 @@
-# Write a speak_to_grandma method.
+  # Write a
+  def speak_to_grandma method(phrase)
+    uc = "#{phrase}".uppercase 
+    if "#{phrase}"
+    
+  end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
